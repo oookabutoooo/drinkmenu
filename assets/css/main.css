@@ -586,7 +586,7 @@ input, select, textarea {
 						width: calc(100vw - 20px) !important;
 						text-align: center;
 						height: auto;
-						padding: 6em;
+						padding: 3em;
 					}
 
 						#main .item.intro h1 {
