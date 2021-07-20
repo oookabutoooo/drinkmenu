@@ -804,6 +804,14 @@ input, select, textarea {
 			.poptrox-popup .nav-previous:before {
 				content: '\f104';
 			}
+		
+		.poptrox-popup .closer {
+			top: 20px;
+			right: 20px;
+			position: absolute;
+			content: url('images/close-small.svg');
+
+		}
 
 		@media screen and (max-width: 736px) {
 
@@ -828,5 +836,4 @@ input, select, textarea {
 				.poptrox-popup .nav-previous {
 					display: none !important;
 				}
-
 		}
